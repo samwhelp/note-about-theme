@@ -8,6 +8,6 @@ parent: gtk-theme
 
 # vimix-gtk-theme
 
-| Vimix Theme |
+| [Vimix Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/vimix-theme.html) |
 | --- |
 | [vimix-gtk-theme](https://github.com/vinceliuice/vimix-gtk-themes) |

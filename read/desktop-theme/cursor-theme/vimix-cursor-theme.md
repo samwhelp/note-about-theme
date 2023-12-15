@@ -8,6 +8,6 @@ parent: cursor-theme
 
 # vimix-cursor-theme
 
-| Vimix Theme |
+| [Vimix Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/vimix-theme.html) |
 | --- |
 | [vimix-cursor-theme](https://github.com/vinceliuice/Vimix-cursors) |

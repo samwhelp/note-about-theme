@@ -8,6 +8,6 @@ parent: kde-theme
 
 # vimix-kde-theme
 
-| Vimix Theme |
+| [Vimix Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/vimix-theme.html) |
 | --- |
-| [vimix-kde-theme](https://github.com/vinceliuice/vimix-kde) |
+| [orchis-kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme/orchis-kde-theme.html) | [Source](https://github.com/vinceliuice/Orchis-kde) |
