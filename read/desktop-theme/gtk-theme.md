@@ -18,6 +18,22 @@ has_children: true
 * [Gtk - 3.0](https://docs.gtk.org/gtk3/) / [CSS Overview](https://docs.gtk.org/gtk3/css-overview.html)
 
 
+## GtkInspector
+
+* Gtk Theming Guide / Getting Started / [GtkInspector](https://gtkthemingguide.vercel.app/#/getting_started?id=tools-requiredhelpful)
+
+
+``` sh
+sudo apt-get install libgtk-3-dev
+```
+
+``` sh
+gsettings set org.gtk.Settings.Debug enable-inspector-keybinding true
+```
+
+``` sh
+GTK_DEBUG=interactive mousepad
+```
 
 
 ## Debian Package
