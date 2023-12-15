@@ -1,6 +1,6 @@
 ---
 title: papirus-icon-theme
-nav_order: 1010
+nav_order: 1030
 has_children: false
 parent: icon-theme
 ---
