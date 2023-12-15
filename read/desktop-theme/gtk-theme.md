@@ -16,3 +16,20 @@ has_children: true
 
 * Gtk Theming Guide / [Creating Gtk Themes](https://gtkthemingguide.vercel.app/#/creating_gtk_themes)
 * [Gtk - 3.0](https://docs.gtk.org/gtk3/) / [CSS Overview](https://docs.gtk.org/gtk3/css-overview.html)
+
+
+
+
+## Debian Package
+
+| Debian Package |
+| --- |
+| [libgtk-3-dev](https://packages.debian.org/stable/libgtk-3-dev) |
+| [libgtk-4-dev](https://packages.debian.org/stable/libgtk-4-dev) |
+
+
+| Debian Package |
+| --- |
+| [color-picker](https://packages.debian.org/stable/color-picker) |
+| [gpick](https://packages.debian.org/stable/gpick) |
+| [kcolorchooser](https://packages.debian.org/stable/kcolorchooser) |
