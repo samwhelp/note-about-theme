@@ -1,6 +1,6 @@
 ---
 title: colloid-gtk-theme
-nav_order: 1010
+nav_order: 1040
 has_children: false
 parent: gtk-theme
 ---
