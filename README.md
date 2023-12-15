@@ -7,6 +7,17 @@
 | [note-about-theme](https://samwhelp.github.io/note-about-theme/) | [GitHub](https://github.com/samwhelp/note-about-theme) |
 
 
+## Subject
+
+| 桌面環境佈景主題 |
+| --- |
+| [gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme.html) |
+| [kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme.html) |
+| [icon-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/icon-theme.html) |
+| [cursor-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/cursor-theme.html) |
+
+
+
 ## Link
 
 | Link | GitHub |
