@@ -1,6 +1,6 @@
 ---
 title: vimix-cursor-theme
-nav_order: 1010
+nav_order: 2010
 has_children: false
 parent: cursor-theme
 ---

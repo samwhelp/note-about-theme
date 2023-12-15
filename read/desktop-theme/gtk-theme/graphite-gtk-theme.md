@@ -1,6 +1,6 @@
 ---
 title: graphite-gtk-theme
-nav_order: 1030
+nav_order: 2030
 has_children: false
 parent: gtk-theme
 ---

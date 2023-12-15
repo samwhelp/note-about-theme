@@ -1,6 +1,6 @@
 ---
 title: graphite-theme
-nav_order: 1030
+nav_order: 2030
 has_children: false
 parent: 桌面環境佈景主題
 ---

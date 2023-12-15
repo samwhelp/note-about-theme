@@ -1,6 +1,6 @@
 ---
 title: fluent-icon-theme
-nav_order: 1050
+nav_order: 2050
 has_children: false
 parent: icon-theme
 ---

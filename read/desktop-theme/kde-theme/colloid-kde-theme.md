@@ -1,6 +1,6 @@
 ---
 title: colloid-kde-theme
-nav_order: 1040
+nav_order: 2040
 has_children: false
 parent: kde-theme
 ---
