@@ -1,6 +1,6 @@
 ---
 title: breeze-icon-theme
-nav_order: 1010
+nav_order: 1060
 has_children: false
 parent: icon-theme
 ---
