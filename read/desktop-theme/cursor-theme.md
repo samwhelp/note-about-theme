@@ -5,4 +5,4 @@ has_children: true
 ---
 
 
-# icon-theme
+# cursor-theme
