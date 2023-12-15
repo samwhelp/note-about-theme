@@ -13,3 +13,9 @@ has_children: true
 * Gtk Theming Guide / [Creating Icon Theme](https://gtkthemingguide.vercel.app/#/creating_icon_theme)
 * [Icon Theme Specification](https://www.freedesktop.org/wiki/Specifications/icon-theme-spec/)
 * [Icon Naming Specification](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)
+
+
+## Link / Tango Icon
+
+* [Tango Icon Library](http://tango.freedesktop.org/Tango_Icon_Library)
+* [Tango Icon Gallery](http://tango.freedesktop.org/Tango_Icon_Gallery)
