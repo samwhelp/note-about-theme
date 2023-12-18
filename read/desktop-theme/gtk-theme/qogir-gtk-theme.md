@@ -10,4 +10,6 @@ parent: gtk-theme
 
 | [Qogir Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/qogir-theme.html) |
 | --- |
-| [qogir-gtk-theme](https://github.com/vinceliuice/Qogir-theme) |
+| [Qogir-theme](https://github.com/vinceliuice/Qogir-theme) |
+| [Avengers-gtk-theme](https://github.com/vinceliuice/Avengers-gtk-theme) |
+
