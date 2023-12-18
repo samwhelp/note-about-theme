@@ -14,6 +14,8 @@ parent: 連結
 | Pling |
 | --- |
 | [Pling](https://www.pling.com/) |
-| [Gnome Look](https://www.gnome-look.org/u/vinceliuice) |
-| [Kde Store](https://store.kde.org/u/vinceliuice) |
-| [Xfce Look](https://www.xfce-look.org/u/vinceliuice) |
+| [Open Desktop](https://www.opendesktop.org/browse/) |
+| [Kde Store](https://store.kde.org/browse/) |
+| [Gnome Look](https://www.gnome-look.org/browse/) |
+| [Xfce Look](https://www.xfce-look.org/u/browse/) |
+| [Mate Look](https://www.mate-look.org/browse/) |

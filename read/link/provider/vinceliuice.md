@@ -15,9 +15,11 @@ grand_parent: 連結
 | Pling |
 | --- |
 | Pling / [vinceliuice](https://www.pling.com/u/vinceliuice) |
-| Gnome Look / [vinceliuice](https://www.gnome-look.org/u/vinceliuice) |
+| Open Desktopv / [inceliuice](https://www.opendesktop.org/u/vinceliuice) |
 | Kde Store / [vinceliuice](https://store.kde.org/u/vinceliuice) |
+| Gnome Look / [vinceliuice](https://www.gnome-look.org/u/vinceliuice) |
 | Xfce Look / [vinceliuice](https://www.xfce-look.org/u/vinceliuice) |
+| Mate Look / [vinceliuice](https://www.mate-look.org/u/vinceliuice) |
 
 
 
