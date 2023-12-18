@@ -58,6 +58,26 @@ grand_parent: 連結
 | [qogir-theme](#qogir-theme) | [qogir](https://github.com/vinceliuice?tab=repositories&q=qogir) |
 | [layan-theme](#layan-theme) | [layan](https://github.com/vinceliuice?tab=repositories&q=layan) |
 | [canta-theme](#canta-theme) | [canta](https://github.com/vinceliuice?tab=repositories&q=canta) |
+| [lavender-theme](#lavender-theme) | [lavender](https://github.com/vinceliuice?tab=repositories&q=lavender) |
+| [stylish-theme](#stylish-theme) | [stylish](https://github.com/vinceliuice?tab=repositories&q=stylish) |
+| [toffee-theme](#toffee-theme) | [toffee](https://github.com/vinceliuice?tab=repositories&q=toffee) |
+| [matcha-theme](#matcha-theme) | [matcha](https://github.com/vinceliuice?tab=repositories&q=matcha) |
+| [canvas-theme](#canvas-theme) | [canvas](https://github.com/vinceliuice?tab=repositories&q=canvas) |
+| [abrus-theme](#abrus-theme) | [abrus](https://github.com/vinceliuice?tab=repositories&q=abrus) |
+| [azure-theme](#azure-theme) | [azure](https://github.com/vinceliuice?tab=repositories&q=azure) |
+| [jasper-theme](#jasper-theme) | [jasper](https://github.com/vinceliuice?tab=repositories&q=jasper) |
+| [lavanda-theme](#lavanda-theme) | [lavanda](https://github.com/vinceliuice?tab=repositories&q=lavanda) |
+| [magnetic-theme](#magnetic-theme) | [magnetic](https://github.com/vinceliuice?tab=repositories&q=magnetic) |
+| [chromeos-theme](#chromeos-theme) | [chromeos](https://github.com/vinceliuice?tab=repositories&q=chromeos) |
+| [whitesur-theme](#whitesur-theme) | [whitesur](https://github.com/vinceliuice?tab=repositories&q=whitesur) |
+| [mojave-theme](#mojave-theme) | [mojave](https://github.com/vinceliuice?tab=repositories&q=mojave) |
+| [yosemite-theme](#yosemite-theme) | [yosemite](https://github.com/vinceliuice?tab=repositories&q=yosemite) |
+| [sierra-theme](#sierra-theme) | [sierra](https://github.com/vinceliuice?tab=repositories&q=sierra) |
+| [monterey-theme](#monterey-theme) | [monterey](https://github.com/vinceliuice?tab=repositories&q=monterey) |
+| [ventura-theme](#ventura-theme) | [ventura](https://github.com/vinceliuice?tab=repositories&q=ventura) |
+| [sonoma-theme](#sonoma-theme) | [sonoma](https://github.com/vinceliuice?tab=repositories&q=sonoma) |
+
+
 
 
 ### vimix-theme
