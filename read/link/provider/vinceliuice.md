@@ -139,14 +139,18 @@ grand_parent: 連結
 
 | [Layan Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/layan-theme.html) |
 | --- |
-| |
+| [Layan-gtk-theme](https://github.com/vinceliuice/Layan-gtk-theme) |
+| [Layan-kde](https://github.com/vinceliuice/Layan-kde) |
+| [Layan-cursors](https://github.com/vinceliuice/Layan-cursors) |
 
 
 ### canta-theme
 
 | [Canta Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/canta-theme.html) |
 | --- |
-| |
+| [Canta-theme](https://github.com/vinceliuice/Canta-theme) |
+| [Canta-kde](https://github.com/vinceliuice/Canta-kde) |
+| [Canta-icon-theme](https://github.com/vinceliuice/Canta-theme/tree/master/icons) |
 
 
 ### lavender-theme
