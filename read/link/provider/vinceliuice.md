@@ -92,6 +92,9 @@ grand_parent: 連結
 
 ### orchis-theme
 
+| [Orchis Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/orchis-theme.html) |
+| --- |
+
 
 ### graphite-theme
 
