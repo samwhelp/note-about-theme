@@ -60,7 +60,7 @@
 
 ## Theme Provider
 
-| Theme Provider |
+| [Theme Provider](https://samwhelp.github.io/note-about-theme/read/link/provider.html) |
 | --- |
 | [vinceliuice](https://samwhelp.github.io/note-about-theme/read/link/provider/vinceliuice.html) |
 
