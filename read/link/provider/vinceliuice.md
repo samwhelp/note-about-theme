@@ -37,7 +37,7 @@ grand_parent: 連結
 
 | Theme | GitHub Search |
 | --- | --- |
-| [vimix-theme](#vimix-theme) | [vimix]() |
+| [vimix-theme](#vimix-theme) | [vimix](https://github.com/vinceliuice?tab=repositories&q=vimix) |
 
 
 ### vimix-theme
