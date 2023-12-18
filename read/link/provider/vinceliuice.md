@@ -31,3 +31,13 @@ grand_parent: 連結
 | Gnome Look / [vinceliuice](https://www.gnome-look.org/u/vinceliuice) |
 | Kde Store / [vinceliuice](https://store.kde.org/u/vinceliuice) |
 | Xfce Look / [vinceliuice](https://www.xfce-look.org/u/vinceliuice) |
+
+
+## Theme
+
+| Theme | GitHub Search |
+| --- | --- |
+| [vimix-theme](#vimix-theme) | [vimix]() |
+
+
+### vimix-theme
