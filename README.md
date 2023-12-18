@@ -58,6 +58,11 @@
 | [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
 
 
+## Theme Provider
+
+| Theme Provider |
+| --- |
+| [vinceliuice](https://samwhelp.github.io/note-about-theme/read/link/provider/vinceliuice.html) |
 
 
 ## Theme Factory
