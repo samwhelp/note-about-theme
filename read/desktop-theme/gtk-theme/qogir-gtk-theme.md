@@ -1,6 +1,6 @@
 ---
 title: qogir-gtk-theme
-nav_order: 3060
+nav_order: 3070
 has_children: false
 parent: gtk-theme
 ---

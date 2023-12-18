@@ -1,6 +1,6 @@
 ---
 title: qogir-kde-theme
-nav_order: 3060
+nav_order: 3070
 has_children: false
 parent: kde-theme
 ---
