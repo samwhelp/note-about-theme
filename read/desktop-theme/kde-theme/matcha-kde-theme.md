@@ -1,6 +1,6 @@
 ---
 title: matcha-kde-theme
-nav_order: 3090
+nav_order: 3100
 has_children: false
 parent: kde-theme
 ---
