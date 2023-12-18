@@ -10,6 +10,18 @@ grand_parent: 連結
 # vinceliuice
 
 
+## Pling
+
+| Pling |
+| --- |
+| Pling / [vinceliuice](https://www.pling.com/u/vinceliuice) |
+| Gnome Look / [vinceliuice](https://www.gnome-look.org/u/vinceliuice) |
+| Kde Store / [vinceliuice](https://store.kde.org/u/vinceliuice) |
+| Xfce Look / [vinceliuice](https://www.xfce-look.org/u/vinceliuice) |
+
+
+
+
 ## Search
 
 | GitHub Search |
@@ -22,14 +34,6 @@ grand_parent: 連結
 | [Mac](https://github.com/vinceliuice?tab=repositories&q=Mac&type=&language=&sort=) |
 
 
-## Pling
-
-| Pling |
-| --- |
-| Pling / [vinceliuice](https://www.pling.com/u/vinceliuice) |
-| Gnome Look / [vinceliuice](https://www.gnome-look.org/u/vinceliuice) |
-| Kde Store / [vinceliuice](https://store.kde.org/u/vinceliuice) |
-| Xfce Look / [vinceliuice](https://www.xfce-look.org/u/vinceliuice) |
 
 
 ## Theme
@@ -40,3 +44,11 @@ grand_parent: 連結
 
 
 ### vimix-theme
+
+| [Vimix Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/vimix-theme.html) |
+| --- |
+| [vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) |
+| [vimix-kde](https://github.com/vinceliuice/vimix-kde) |
+| [vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) |
+| [Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) |
+
