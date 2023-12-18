@@ -28,7 +28,7 @@
 ## 相關筆記
 
 * Manjaro 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-manjaro/read/theme.html)
-* Ubuntu 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-ubuntu/read/theme.html)
+* Ubuntu 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-ubuntu/read/subject/theme.html)
 * Grub 探索筆記 / [Use Theme](https://samwhelp.github.io/note-about-grub/read/howto/use_theme.html)
 * [Wallpaper 探索筆記](https://samwhelp.github.io/note-about-wallpaper/)
 
