@@ -19,3 +19,4 @@ parent: 連結
 | [Gnome Look](https://www.gnome-look.org/browse/) |
 | [Xfce Look](https://www.xfce-look.org/browse/) |
 | [Mate Look](https://www.mate-look.org/browse/) |
+| [Cinnamon Look](https://www.cinnamon-look.org/browse/) |
