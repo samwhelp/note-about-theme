@@ -1,6 +1,6 @@
 ---
 title: stylish-gtk-theme
-nav_order: 3091
+nav_order: 3092
 has_children: false
 parent: gtk-theme
 ---
