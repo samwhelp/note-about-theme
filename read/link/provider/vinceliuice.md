@@ -16,7 +16,6 @@ grand_parent: 連結
 | --- |
 | [gtk](https://github.com/vinceliuice?tab=repositories&q=gtk&type=&language=&sort=) |
 | [kde](https://github.com/vinceliuice?tab=repositories&q=kde&type=&language=&sort=) |
-| |
 | [cursor](https://github.com/vinceliuice?tab=repositories&q=cursor&type=&language=&sort=) |
 | [icon](https://github.com/vinceliuice?tab=repositories&q=icon&type=&language=&sort=) |
 | [MacOS](https://github.com/vinceliuice?tab=repositories&q=MacOS&type=&language=&sort=) |
