@@ -1,6 +1,6 @@
 ---
 title: sierra-gtk-theme
-nav_order: 3610
+nav_order: 3612
 has_children: false
 parent: gtk-theme
 ---
