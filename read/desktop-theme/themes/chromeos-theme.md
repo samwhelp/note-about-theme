@@ -10,8 +10,8 @@ parent: 桌面環境佈景主題
 
 | ChromeOS Theme | Source |
 | --- | --- |
-| [chromeos-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/chromeos-gtk-theme.html) | [Source](https://github.com/vinceliuice/chromeos-gtk-themes) |
-| [chromeos-kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme/chromeos-kde-theme.html) | [Source](https://github.com/vinceliuice/chromeos-kde) |
+| [chromeos-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/chromeos-gtk-theme.html) | [Source](https://github.com/vinceliuice/ChromeOS-theme) |
+| [chromeos-kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme/chromeos-kde-theme.html) | [Source](https://github.com/vinceliuice/ChromeOS-kde) |
 
 
 ## Search
