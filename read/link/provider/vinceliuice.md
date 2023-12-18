@@ -41,6 +41,13 @@ grand_parent: 連結
 | Theme | GitHub Search |
 | --- | --- |
 | [vimix-theme](#vimix-theme) | [vimix](https://github.com/vinceliuice?tab=repositories&q=vimix) |
+| [orchis-theme](#orchis-theme) | [orchis](https://github.com/vinceliuice?tab=repositories&q=orchis) |
+| [graphite-theme](#graphite-theme) | [graphite](https://github.com/vinceliuice?tab=repositories&q=graphite) |
+| [colloid-theme](#colloid-theme) | [colloid](https://github.com/vinceliuice?tab=repositories&q=colloid) |
+| [fluent-theme](#fluent-theme) | [fluent](https://github.com/vinceliuice?tab=repositories&q=fluent) |
+| [qogir-theme](#qogir-theme) | [qogir](https://github.com/vinceliuice?tab=repositories&q=qogir) |
+| [layan-theme](#layan-theme) | [layan](https://github.com/vinceliuice?tab=repositories&q=layan) |
+| [canta-theme](#canta-theme) | [canta](https://github.com/vinceliuice?tab=repositories&q=canta) |
 
 
 ### vimix-theme
