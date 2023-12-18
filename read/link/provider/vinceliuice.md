@@ -111,23 +111,28 @@ grand_parent: 連結
 
 | [Colloid Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/colloid-theme.html) |
 | --- |
-| [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) |
-| [Fluent-kde](https://github.com/vinceliuice/Fluent-kde) |
-| [Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) |
+| [Colloid-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) |
+| [Colloid-kde](https://github.com/vinceliuice/Colloid-kde) |
+| [Colloid-icon-theme](https://github.com/vinceliuice/Colloid-icon-theme) |
 
 
 ### fluent-theme
 
 | [Fluent Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/fluent-theme.html) |
 | --- |
-| |
+| [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) |
+| [Fluent-kde](https://github.com/vinceliuice/Fluent-kde) |
+| [Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) |
+
 
 
 ### qogir-theme
 
 | [Qogir Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/qogir-theme.html) |
 | --- |
-| |
+| [Qogir-theme](https://github.com/vinceliuice/Qogir-theme) |
+| [Qogir-kde](https://github.com/vinceliuice/Qogir-kde) |
+| [Qogir-icon-theme](https://github.com/vinceliuice/Qogir-icon-theme) |
 
 
 ### layan-theme
