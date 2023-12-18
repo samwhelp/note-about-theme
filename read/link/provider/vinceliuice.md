@@ -215,28 +215,35 @@ grand_parent: 連結
 
 | [Lavanda Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/lavanda-theme.html) |
 | --- |
-| |
+| [Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) |
+| [Lavanda-kde](https://github.com/vinceliuice/Lavanda-kde) |
 
 
 ### magnetic-theme
 
 | [Magnetic Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/magnetic-theme.html) |
 | --- |
-| |
+| [Magnetic-gtk-theme](https://github.com/vinceliuice/Magnetic-gtk-theme) |
 
 
 ### chromeos-theme
 
 | [ChromeOS Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/chromeos-theme.html) |
 | --- |
-| |
+| [ChromeOS-theme](https://github.com/vinceliuice/ChromeOS-theme) |
+| [ChromeOS-kde](https://github.com/vinceliuice/ChromeOS-kde) |
 
 
 ### whitesur-theme
 
 | [WhiteSur Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/whitesur-theme.html) |
 | --- |
-| |
+| [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) |
+| [WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde) |
+| [WhiteSur-icon-theme](https://github.com/vinceliuice/WhiteSur-icon-theme) |
+| [WhiteSur-cursors](https://github.com/vinceliuice/WhiteSur-cursors) |
+| [WhiteSur-wallpapers](https://github.com/vinceliuice/WhiteSur-wallpapers) |
+| [WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) |
 
 
 ### mojave-theme
