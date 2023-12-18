@@ -111,7 +111,9 @@ grand_parent: 連結
 
 | [Colloid Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/colloid-theme.html) |
 | --- |
-| |
+| [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) |
+| [Fluent-kde](https://github.com/vinceliuice/Fluent-kde) |
+| [Fluent-icon-theme](https://github.com/vinceliuice/Fluent-icon-theme) |
 
 
 ### fluent-theme
