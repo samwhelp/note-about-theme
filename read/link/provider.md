@@ -17,5 +17,5 @@ parent: 連結
 | [Open Desktop](https://www.opendesktop.org/browse/) |
 | [Kde Store](https://store.kde.org/browse/) |
 | [Gnome Look](https://www.gnome-look.org/browse/) |
-| [Xfce Look](https://www.xfce-look.org/u/browse/) |
+| [Xfce Look](https://www.xfce-look.org/browse/) |
 | [Mate Look](https://www.mate-look.org/browse/) |
