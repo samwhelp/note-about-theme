@@ -18,10 +18,3 @@ parent: 桌面環境佈景主題
 ## Search
 
 * [layan](https://github.com/vinceliuice?tab=repositories&q=layan)
-
-
-## Theme Factory / layan
-
-| Link | GitHub |
-| ---- | ------ |
-| [Theme Factory / Layan](https://samwhelp.github.io/theme-factory-layan/) | [GitHub](https://github.com/samwhelp/theme-factory-layan) |
