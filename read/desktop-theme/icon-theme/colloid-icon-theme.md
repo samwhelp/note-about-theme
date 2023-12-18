@@ -1,6 +1,6 @@
 ---
 title: colloid-icon-theme
-nav_order: 2040
+nav_order: 3040
 has_children: false
 parent: icon-theme
 ---

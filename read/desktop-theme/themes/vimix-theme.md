@@ -1,6 +1,6 @@
 ---
 title: vimix-theme
-nav_order: 2010
+nav_order: 3010
 has_children: false
 parent: 桌面環境佈景主題
 ---

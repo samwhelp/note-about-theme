@@ -1,6 +1,6 @@
 ---
 title: orchis-gtk-theme
-nav_order: 2020
+nav_order: 3020
 has_children: false
 parent: gtk-theme
 ---

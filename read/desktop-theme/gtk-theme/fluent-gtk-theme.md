@@ -1,6 +1,6 @@
 ---
 title: fluent-gtk-theme
-nav_order: 2050
+nav_order: 3050
 has_children: false
 parent: gtk-theme
 ---

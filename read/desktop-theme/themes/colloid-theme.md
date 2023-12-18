@@ -1,6 +1,6 @@
 ---
 title: colloid-theme
-nav_order: 2040
+nav_order: 3040
 has_children: false
 parent: 桌面環境佈景主題
 ---
