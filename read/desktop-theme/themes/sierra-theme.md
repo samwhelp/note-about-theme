@@ -10,7 +10,7 @@ parent: 桌面環境佈景主題
 
 | Sierra Theme | Source |
 | --- | --- |
-| [sierra-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/sierra-gtk-theme.html) | [Source](hhttps://github.com/vinceliuice/Sierra-gtk-theme) |
+| [sierra-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/sierra-gtk-theme.html) | [Source](https://github.com/vinceliuice/Sierra-gtk-theme) |
 
 
 ## Search

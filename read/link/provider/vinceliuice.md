@@ -260,32 +260,32 @@ grand_parent: 連結
 
 | [Yosemite Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/yosemite-theme.html) |
 | --- |
-| |
+| [Yosemite-gtk-theme](https://github.com/vinceliuice/Yosemite-gtk-theme) |
 
 
 ### sierra-theme
 
 | [Sierra Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/sierra-theme.html) |
 | --- |
-| |
+| [Sierra-gtk-theme](https://github.com/vinceliuice/Sierra-gtk-theme) |
 
 
 ### monterey-theme
 
 | [Monterey Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/monterey-theme.html) |
 | --- |
-| |
+| [Monterey-kde](https://github.com/vinceliuice/Monterey-kde) |
 
 
 ### ventura-theme
 
 | [Ventura Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/ventura-theme.html) |
 | --- |
-| |
+| [MacVentura-kde](https://github.com/vinceliuice/MacVentura-kde) |
 
 
 ### sonoma-theme
 
 | [Sonoma Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/sonoma-theme.html) |
 | --- |
-| |
+| [MacSonoma-kde](https://github.com/vinceliuice/MacSonoma-kde) |
