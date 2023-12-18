@@ -164,48 +164,51 @@ grand_parent: 連結
 
 | [Stylish Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/stylish-theme.html) |
 | --- |
-| |
+| [stylish-gtk-theme](https://github.com/vinceliuice/stylish-gtk-theme) |
 
 
 ### toffee-theme
 
 | [Toffee Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/toffee-theme.html) |
 | --- |
-| |
+| [Toffee-gtk-theme](https://github.com/vinceliuice/Toffee-gtk-theme) |
 
 
 ### matcha-theme
 
 | [Matcha Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/matcha-theme.html) |
 | --- |
-| |
+| [Matcha-gtk-theme](https://github.com/vinceliuice/Matcha-gtk-theme) |
+| [Matcha-kde](https://github.com/vinceliuice/Matcha-kde) |
+
 
 ### canvas-theme
 
 | [Canvas Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/canvas-theme.html) |
 | --- |
-| |
+| [Canvas-theme](https://github.com/vinceliuice/Canvas-theme) |
 
 
 ### abrus-theme
 
 | [Abrus Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/abrus-theme.html) |
 | --- |
-| |
+| [Abrus-gtk-theme](https://github.com/vinceliuice/Abrus-gtk-theme) |
 
 
 ### azure-theme
 
 | [Azure Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/azure-theme.html) |
 | --- |
-| |
+| [Azure-theme](https://github.com/vinceliuice/Azure-theme) |
 
 
 ### jasper-theme
 
 | [Jasper Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/jasper-theme.html) |
 | --- |
-| |
+| [Jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) |
+| [Jasper-kde](https://github.com/vinceliuice/Jasper-kde) |
 
 
 ### lavanda-theme
