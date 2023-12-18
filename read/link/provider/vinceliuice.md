@@ -94,14 +94,17 @@ grand_parent: 連結
 
 | [Orchis Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/orchis-theme.html) |
 | --- |
-| |
+| [Orchis-theme](https://github.com/vinceliuice/Orchis-theme) |
+| [Orchis-kde](https://github.com/vinceliuice/Orchis-kde) |
 
 
 ### graphite-theme
 
 | [Graphite Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/graphite-theme.html) |
 | --- |
-| |
+| [Graphite-gtk-theme](https://github.com/vinceliuice/Graphite-gtk-theme) |
+| [Graphite-kde-theme](https://github.com/vinceliuice/Graphite-kde-theme) |
+| [Graphite-cursors](https://github.com/vinceliuice/Graphite-cursors) |
 
 
 ### colloid-theme
