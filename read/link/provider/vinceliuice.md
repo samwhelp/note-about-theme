@@ -23,6 +23,13 @@ grand_parent: 連結
 | Cinnamon Look / [vinceliuice](https://www.cinnamon-look.org/u/vinceliuice) |
 
 
+| Code |
+| --- |
+| opencode / [vinceliuice](https://www.opencode.net/vinceliuice) |
+| GitHub / [vinceliuice](https://github.com/vinceliuice) |
+
+
+
 
 
 ## Search
