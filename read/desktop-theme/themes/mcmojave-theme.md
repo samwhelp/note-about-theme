@@ -19,3 +19,9 @@ parent: 桌面環境佈景主題
 ## Search
 
 * [Mojave](https://github.com/vinceliuice?tab=repositories&q=Mojave)
+
+
+## Wiki
+
+* [macOS Mojave](https://zh.wikipedia.org/zh-tw/MacOS_Mojave)
+* [MacOS](https://zh.wikipedia.org/wiki/MacOS#%E7%89%88%E6%9C%AC)
