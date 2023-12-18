@@ -157,7 +157,7 @@ grand_parent: 連結
 
 | [Lavender Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/lavender-theme.html) |
 | --- |
-| |
+| [Lavender-theme](https://github.com/vinceliuice/Lavender-theme) |
 
 
 ### stylish-theme
