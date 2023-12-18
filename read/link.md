@@ -13,6 +13,13 @@ has_children: true
 * [Gtk](https://wiki.archlinux.org/title/GTK#Configuration)
 
 
+## Guide
+
+| Link | GitHub |
+| --- | --- |
+| [Gtk Theming Guide](https://gtkthemingguide.vercel.app/#/) | [GitHub](https://github.com/surajmandalcell/Gtk-Theming-Guide) |
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
