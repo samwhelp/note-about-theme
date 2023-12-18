@@ -10,8 +10,8 @@ parent: 桌面環境佈景主題
 
 | Canta Theme | Source |
 | --- | --- |
-| [canta-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/canta-gtk-theme.html) | [Source](https://github.com/vinceliuice/canta-gtk-themes) |
-| [canta-kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme/canta-kde-theme.html) | [Source](https://github.com/vinceliuice/canta-kde) |
+| [canta-gtk-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/gtk-theme/canta-gtk-theme.html) | [Source](https://github.com/vinceliuice/Canta-theme) |
+| [canta-kde-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/kde-theme/canta-kde-theme.html) | [Source](https://github.com/vinceliuice/Canta-kde) |
 | [canta-icon-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/icon-theme/canta-icon-theme.html) | [Source](https://github.com/vinceliuice/Canta-theme/tree/master/icons) |
 
 
