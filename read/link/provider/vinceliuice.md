@@ -89,3 +89,77 @@ grand_parent: 連結
 | [vimix-icon-theme](https://github.com/vinceliuice/vimix-icon-theme) |
 | [Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) |
 
+
+### orchis-theme
+
+
+### graphite-theme
+
+
+### colloid-theme
+
+
+### fluent-theme
+
+
+### qogir-theme
+
+
+### layan-theme
+
+
+### canta-theme
+
+
+### lavender-theme
+
+
+### stylish-theme
+
+
+### toffee-theme
+
+
+### matcha-theme
+
+
+### canvas-theme
+
+
+### abrus-theme
+
+
+### azure-theme
+
+
+### jasper-theme
+
+
+### lavanda-theme
+
+
+### magnetic-theme
+
+
+### chromeos-theme
+
+
+### whitesur-theme
+
+
+### mojave-theme
+
+
+### yosemite-theme
+
+
+### sierra-theme
+
+
+### monterey-theme
+
+
+### ventura-theme
+
+
+### sonoma-theme
