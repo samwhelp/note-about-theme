@@ -1,6 +1,6 @@
 ---
 title: layan-cursor-theme
-nav_order: 3060
+nav_order: 3080
 has_children: false
 parent: cursor-theme
 ---
