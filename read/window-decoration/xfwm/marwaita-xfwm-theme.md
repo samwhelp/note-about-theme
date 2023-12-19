@@ -22,3 +22,10 @@ parent: xfwm-theme
 | --- |
 | Pling / [Marwaita for Xfwm](https://www.pling.com/p/1877124) |
 | Xfce Look / [Marwaita for Xfwm](https://www.xfce-look.org/p/1877124) |
+
+
+## Link
+
+| Link |
+| --- |
+| Xfce 探索筆記 / [Marwaita](https://samwhelp.github.io/note-about-xfce/read/link/theme/marwaita.html) |
