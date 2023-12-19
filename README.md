@@ -17,20 +17,36 @@
 | [cursor-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/cursor-theme.html) |
 
 
+| Window Decoration |
+| --- |
+| [xfwm-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/openbox-theme.html) |
+| [openbox-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/openbox-theme.html) |
+| [aurorae-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/aurorae-theme.html) |
 
-## Link
+
+
+
+## Theming Guide
 
 | Link | GitHub |
 | --- | --- |
 | [Gtk Theming Guide](https://gtkthemingguide.vercel.app/#/) | [GitHub](https://github.com/surajmandalcell/Gtk-Theming-Guide) |
 
 
-## 相關筆記
+## Theme Provider
 
-* Manjaro 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-manjaro/read/theme.html)
-* Ubuntu 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-ubuntu/read/subject/theme.html)
-* Grub 探索筆記 / [Use Theme](https://samwhelp.github.io/note-about-grub/read/howto/use_theme.html)
-* [Wallpaper 探索筆記](https://samwhelp.github.io/note-about-wallpaper/)
+| [Theme Provider](https://samwhelp.github.io/note-about-theme/read/link/provider.html) |
+| --- |
+| [vinceliuice](https://samwhelp.github.io/note-about-theme/read/link/provider/vinceliuice.html) |
+
+
+## Theme Factory
+
+| Theme Factory | GitHub |
+| --- | --- |
+| [theme-factory-vimix](https://samwhelp.github.io/theme-factory-vimix/) | [GitHub](https://github.com/samwhelp/theme-factory-vimix) |
+| [theme-factory-canta](https://samwhelp.github.io/theme-factory-canta/) | [GitHub](https://github.com/samwhelp/theme-factory-canta) |
+
 
 
 
@@ -58,19 +74,15 @@
 | [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
 
 
-## Theme Provider
-
-| [Theme Provider](https://samwhelp.github.io/note-about-theme/read/link/provider.html) |
-| --- |
-| [vinceliuice](https://samwhelp.github.io/note-about-theme/read/link/provider/vinceliuice.html) |
 
 
-## Theme Factory
 
-| Theme Factory | GitHub |
-| --- | --- |
-| [theme-factory-vimix](https://samwhelp.github.io/theme-factory-vimix/) | [GitHub](https://github.com/samwhelp/theme-factory-vimix) |
-| [theme-factory-canta](https://samwhelp.github.io/theme-factory-canta/) | [GitHub](https://github.com/samwhelp/theme-factory-canta) |
+## 相關筆記
+
+* Manjaro 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-manjaro/read/theme.html)
+* Ubuntu 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-ubuntu/read/subject/theme.html)
+* Grub 探索筆記 / [Use Theme](https://samwhelp.github.io/note-about-grub/read/howto/use_theme.html)
+* [Wallpaper 探索筆記](https://samwhelp.github.io/note-about-wallpaper/)
 
 
 
