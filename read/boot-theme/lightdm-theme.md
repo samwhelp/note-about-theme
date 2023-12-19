@@ -1,6 +1,6 @@
 ---
 title: lightdm-theme
-nav_order: 2200
+nav_order: 3200
 has_children: true
 ---
 
