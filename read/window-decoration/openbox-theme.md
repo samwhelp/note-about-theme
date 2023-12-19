@@ -13,3 +13,10 @@ has_children: true
 | Theme Collection |
 | --- |
 | addy-dclxvi / [openbox-theme-collections](https://github.com/addy-dclxvi/openbox-theme-collections) |
+
+
+## Pling
+
+| Pling |
+| --- |
+| Pling / [Openbox Themes](https://www.pling.com/browse?cat=140)
