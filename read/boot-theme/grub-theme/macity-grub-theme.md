@@ -12,3 +12,10 @@ parent: grub-theme
 | --- | --- |
 | [bigsur](https://github.com/Teraskull/bigsur-grub2-theme) | [Pling](https://www.pling.com/p/1443844) |
 | [monterey](https://github.com/sandesh236/monterey-grub-theme) | [Pling](https://www.pling.com/p/1577873) |
+
+
+## Theme Remix
+
+| Theme Remix |
+| --- |
+| [grub-theme-monterey-remix](https://github.com/samwhelp/grub-theme-remix/tree/grub-theme-monterey-remix) |
