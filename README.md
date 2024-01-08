@@ -87,6 +87,8 @@
 * Ubuntu 探索筆記 / [佈景主題](https://samwhelp.github.io/note-about-ubuntu/read/subject/theme.html)
 * Grub 探索筆記 / [Use Theme](https://samwhelp.github.io/note-about-grub/read/howto/use_theme.html)
 * [Wallpaper 探索筆記](https://samwhelp.github.io/note-about-wallpaper/)
+* [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/)
+* [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/)
 
 
 
