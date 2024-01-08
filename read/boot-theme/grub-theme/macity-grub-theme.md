@@ -1,6 +1,6 @@
 ---
 title: macity-grub-theme
-nav_order: 1010
+nav_order: 1040
 has_children: false
 parent: grub-theme
 ---
