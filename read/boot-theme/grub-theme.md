@@ -22,6 +22,6 @@ has_children: true
 ## Theme Remix
 
 | Theme Remix | GitHub |
-| --- | --- |
-| [grub-theme-refactoring](https://github.com/samwhelp/grub-theme-refactoring) |
+| ----------- | ------ |
+| [grub-theme-refactoring](https://github.com/samwhelp/grub-theme-refactoring) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
