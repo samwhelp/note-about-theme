@@ -13,7 +13,7 @@ has_children: true
 
 | Link |
 | --- |
-| [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) |
+| [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) / [Theme](https://samwhelp.github.io/note-about-grub/read/theme.html)|
 | [grubrc-theme-get](https://samwhelp.github.io/note-about-grub/read/project/grubrc-profile/grubrc-theme-get.html) |
 
 
