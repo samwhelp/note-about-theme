@@ -8,6 +8,7 @@ has_children: true
 # grub-theme
 
 
+
 ## Link
 
 | Link |
@@ -16,8 +17,11 @@ has_children: true
 | [grubrc-theme-get](https://samwhelp.github.io/note-about-grub/read/project/grubrc-profile/grubrc-theme-get.html) |
 
 
+
+
 ## Theme Remix
 
 | Theme Remix | GitHub |
 | --- | --- |
+| [grub-theme-refactoring](https://github.com/samwhelp/grub-theme-refactoring) |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
