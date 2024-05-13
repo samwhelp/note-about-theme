@@ -32,9 +32,9 @@ has_children: true
 
 | Theme Select | GitHub |
 | ----------- | ------ |
-| [grub-theme-remix-select](https://samwhelp.github.io/grub-theme-remix-select/) | [GitHub](https://github.com/samwhelp/grub-theme-remix-select) |
-| [grub-theme-refactoring-select](https://samwhelp.github.io/grub-theme-refactoring-select/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring-select) |
 | [grub-theme-select](https://samwhelp.github.io/grub-theme-select/) | [GitHub](https://github.com/samwhelp/grub-theme-select) |
+| [grub-theme-refactoring-select](https://samwhelp.github.io/grub-theme-refactoring-select/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring-select) |
+| [grub-theme-remix-select](https://samwhelp.github.io/grub-theme-remix-select/) | [GitHub](https://github.com/samwhelp/grub-theme-remix-select) |
 
 
 
