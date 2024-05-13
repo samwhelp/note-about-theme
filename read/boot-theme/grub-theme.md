@@ -14,7 +14,6 @@ has_children: true
 | Link |
 | --- |
 | [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) / [Theme](https://samwhelp.github.io/note-about-grub/read/theme.html)|
-| [grubrc-theme-get](https://samwhelp.github.io/note-about-grub/read/project/grubrc-profile/grubrc-theme-get.html) |
 
 
 
@@ -25,6 +24,17 @@ has_children: true
 | ----------- | ------ |
 | [grub-theme-refactoring](https://github.com/samwhelp/grub-theme-refactoring) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring) |
 | [grub-theme-remix](https://samwhelp.github.io/grub-theme-remix/) | [GitHub](https://github.com/samwhelp/grub-theme-remix) |
+
+
+
+
+## Theme Select
+
+| Theme Select | GitHub |
+| ----------- | ------ |
+| [grub-theme-remix-select](https://samwhelp.github.io/grub-theme-remix-select/) | [GitHub](https://github.com/samwhelp/grub-theme-remix-select) |
+| [grub-theme-refactoring-select](https://samwhelp.github.io/grub-theme-refactoring-select/) | [GitHub](https://github.com/samwhelp/grub-theme-refactoring-select) |
+| [grub-theme-select](https://samwhelp.github.io/grub-theme-select/) | [GitHub](https://github.com/samwhelp/grub-theme-select) |
 
 
 
