@@ -19,4 +19,4 @@ parent: icon-theme
 
 | Link | GitHub |
 | ---- | ------ |
-| [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [canta-icon-theme-remix](https://github.com/samwhelp/canta-icon-theme-remix) |
+| [canta-icon-theme-remix](https://samwhelp.github.io/canta-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/canta-icon-theme-remix) |
