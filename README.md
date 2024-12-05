@@ -69,6 +69,15 @@
 
 
 
+## Packaging / Debian
+
+| Packaging |
+| --------- |
+| [deb-recipe](https://github.com/samwhelp/deb-recipe) |
+
+
+
+
 ## 相關收藏
 
 * [theme-collections-xfwm4](https://github.com/samwhelp/theme-collections-xfwm4)
