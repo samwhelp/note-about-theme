@@ -19,7 +19,7 @@ parent: icon-theme
 
 | Link | GitHub |
 | ---- | ------ |
-| [citrus-icon-theme-remix](https://samwhelp.github.io/citrus-icon-theme-remix/) | [citrus-icon-theme-remix](https://github.com/samwhelp/citrus-icon-theme-remix) |
+| [citrus-icon-theme-remix](https://samwhelp.github.io/citrus-icon-theme-remix/) | [GitHub](https://github.com/samwhelp/citrus-icon-theme-remix) |
 
 
 
@@ -29,4 +29,4 @@ parent: icon-theme
 | Link |
 | ---- |
 | [cook-appearance-citrus-icon-theme](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-appearance-citrus-icon-theme/cook-appearance-citrus-icon-theme) |
-| [citrus-icon-theme-remix](https://samwhelp.github.io/citrus-icon-theme-remix/) |
+| [citrus-icon-theme-remix](https://github.com/samwhelp/citrus-icon-theme-remix) |
