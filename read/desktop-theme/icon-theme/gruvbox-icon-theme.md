@@ -15,3 +15,4 @@ parent: icon-theme
 | [Gruvbox-Plus-Dark](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | [Pling](https://www.pling.com/p/1961046/) |
 | [Graphite-Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme/tree/master/icons) | [Pling](https://www.pling.com/p/1681460/) |
 | [Gruvbox-Material-Dark](https://github.com/sainnhe/gruvbox-material-gtk/tree/master/icons/Gruvbox-Material-Dark) | Pling |
+| [Palette-icon-theme](https://github.com/mjkim0727/Palette-icon-theme) | [Pling](https://www.pling.com/p/2188927/) |
