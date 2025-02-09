@@ -10,4 +10,7 @@ parent: icon-theme
 
 | [Simply Circles Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/simply-circles-theme.html) |
 | --- |
-| [iconpack-simply-circles](https://github.com/madmaxms/iconpack-simply-circles/) |
+| [simply-circles-icon-theme](https://github.com/ju1464/Simply_Circles_Icons) |
+
+
+* Pling / [Simply Circles Icons](https://www.pling.com/p/1277095/)
