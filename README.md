@@ -74,6 +74,7 @@
 | Packaging |
 | --------- |
 | [deb-recipe](https://github.com/samwhelp/deb-recipe) |
+| [deb-coffee](https://github.com/samwhelp/deb-coffee) |
 
 
 
