@@ -19,3 +19,12 @@ parent: 桌面環境佈景主題
 
 * [graphite](https://github.com/vinceliuice?tab=repositories&q=graphite)
 
+
+
+
+## 搭配
+
+> 可以搭配以下的「Icon Theme」
+
+* [GreyStone](https://github.com/SethStormR/GreyStone)
+* [Simply_Circles_Icons](https://github.com/ju1464/Simply_Circles_Icons)
