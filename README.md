@@ -19,7 +19,7 @@
 
 | Window Decoration |
 | --- |
-| [xfwm-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/openbox-theme.html) |
+| [xfwm-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/xfwm-theme.html) |
 | [openbox-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/openbox-theme.html) |
 | [aurorae-theme](https://samwhelp.github.io/note-about-theme/read/window-decoration/aurorae-theme.html) |
 
