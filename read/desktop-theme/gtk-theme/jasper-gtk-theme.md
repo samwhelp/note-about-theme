@@ -11,3 +11,8 @@ parent: gtk-theme
 | [Jasper Theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/themes/jasper-theme.html) |
 | --- |
 | [jasper-gtk-theme](https://github.com/vinceliuice/Jasper-gtk-theme) |
+
+
+
+
+> 建議可以搭配「[greystone-icon-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/icon-theme/greystone-icon-theme.html)」。
