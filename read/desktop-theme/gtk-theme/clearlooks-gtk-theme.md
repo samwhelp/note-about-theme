@@ -1,6 +1,6 @@
 ---
 title: clearlooks-gtk-theme
-nav_order: 4010
+nav_order: 2013
 has_children: false
 parent: gtk-theme
 ---
