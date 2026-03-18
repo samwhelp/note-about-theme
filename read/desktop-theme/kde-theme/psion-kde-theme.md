@@ -29,4 +29,4 @@ parent: kde-theme
 
 
 
-> 搭配「[buuf-icon-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/icon-theme/buuf-icon-theme.html)」。
+> 可以搭配「[buuf-icon-theme](https://samwhelp.github.io/note-about-theme/read/desktop-theme/icon-theme/buuf-icon-theme.html)」。
