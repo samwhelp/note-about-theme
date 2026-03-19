@@ -134,13 +134,13 @@
 
 ## 相關收藏
 
-* [theme-collections-xfwm4](https://github.com/samwhelp/theme-collections-xfwm4)
-* [theme-collections-openbox](https://github.com/samwhelp/theme-collections-openbox)
-* [theme-collections-gtk](https://github.com/samwhelp/theme-collections-gtk)
-* [theme-collections-icon](https://github.com/samwhelp/theme-collections-icon)
-* [theme-collections-cursor](https://github.com/samwhelp/theme-collections-cursor)
-* [theme-collections-grub](https://github.com/samwhelp/theme-collections-grub)
-* [theme-collections-wallpaper](https://github.com/samwhelp/theme-collections-wallpaper)
+* [theme-collection-xfwm4](https://github.com/samwhelp/theme-collection-xfwm4)
+* [theme-collection-openbox](https://github.com/samwhelp/theme-collection-openbox)
+* [theme-collection-gtk](https://github.com/samwhelp/theme-collection-gtk)
+* [theme-collection-icon](https://github.com/samwhelp/theme-collection-icon)
+* [theme-collection-cursor](https://github.com/samwhelp/theme-collection-cursor)
+* [theme-collection-grub](https://github.com/samwhelp/theme-collection-grub)
+* [theme-collection-wallpaper](https://github.com/samwhelp/theme-collection-wallpaper)
 
 
 
